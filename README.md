@@ -86,7 +86,7 @@ monitor.diff(1408947323420, 1408947556898, function(code){
     console.log('[DONE] exit [' + code + ']');
 });
 ```
-
+### monitor
 ### events
 
 ```javascript
